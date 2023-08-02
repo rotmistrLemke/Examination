@@ -1,0 +1,15 @@
+F:\GitRepositories\MirolyubovPA\Examination\Examination\bin\Debug\net8.0\Examination.exe
+F:\GitRepositories\MirolyubovPA\Examination\Examination\bin\Debug\net8.0\Examination.deps.json
+F:\GitRepositories\MirolyubovPA\Examination\Examination\bin\Debug\net8.0\Examination.runtimeconfig.json
+F:\GitRepositories\MirolyubovPA\Examination\Examination\bin\Debug\net8.0\Examination.dll
+F:\GitRepositories\MirolyubovPA\Examination\Examination\bin\Debug\net8.0\Examination.pdb
+F:\GitRepositories\MirolyubovPA\Examination\Examination\obj\Debug\net8.0\Examination.csproj.AssemblyReference.cache
+F:\GitRepositories\MirolyubovPA\Examination\Examination\obj\Debug\net8.0\Examination.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitRepositories\MirolyubovPA\Examination\Examination\obj\Debug\net8.0\Examination.AssemblyInfoInputs.cache
+F:\GitRepositories\MirolyubovPA\Examination\Examination\obj\Debug\net8.0\Examination.AssemblyInfo.cs
+F:\GitRepositories\MirolyubovPA\Examination\Examination\obj\Debug\net8.0\Examination.csproj.CoreCompileInputs.cache
+F:\GitRepositories\MirolyubovPA\Examination\Examination\obj\Debug\net8.0\Examination.dll
+F:\GitRepositories\MirolyubovPA\Examination\Examination\obj\Debug\net8.0\refint\Examination.dll
+F:\GitRepositories\MirolyubovPA\Examination\Examination\obj\Debug\net8.0\Examination.pdb
+F:\GitRepositories\MirolyubovPA\Examination\Examination\obj\Debug\net8.0\Examination.genruntimeconfig.cache
+F:\GitRepositories\MirolyubovPA\Examination\Examination\obj\Debug\net8.0\ref\Examination.dll
